@@ -1,7 +1,7 @@
-# Consumer Insights & Analytics Snapshot  
+# Consumer Insights & Analytics: Aligning Business Value with User Needs  
 
 **Showcasing the Evolution and Journey**  
-This repository offers a snapshot of the **Consumer Insights & Analytics** tool's development, highlighting key milestones from service design optimization to real-time analytics with qualitative consumer insights.
+This repository offers an overview of a solution for **Consumer Insights & Analytics**, highlighting key milestones from service design optimization to real-time analytics with qualitative consumer insights.
 
 ---
 
@@ -10,7 +10,7 @@ This repository offers a snapshot of the **Consumer Insights & Analytics** tool'
 ### Phase 1: Service Design & Optimization (2021)  
 ![Service Design & Optimization](service-design-optimization-preview.png) 
 - Focused on aligning business goals with user needs through advisory planning, brand development, and content strategy.
-- Delivered service design blueprints and optimization plans to drive brand differentiation.
+- Delivered service design blueprints and optimization plans to drive efficiency without sacrificing on customer experience.
 
 ### Phase 2: Tech-Enabled Consulting Prototype (2022)  
 ![Tech-Enabled Consulting Prototype](consulting-prototype-preview.png)

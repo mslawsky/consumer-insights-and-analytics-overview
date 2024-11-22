@@ -76,7 +76,10 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 - Designing strategic variance loops for actionable visualizations
 - Enabling users to interact with and understand complex data effortlessly
 
-
+<p float="left">
+  <img src="pattern-alignment-visualization.png" width="45%" />
+  <img src="business-performance-is-logo.png" width="45%" />
+</p>
 
 ---
 

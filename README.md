@@ -35,9 +35,13 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 - Integrated alignment algorithms to facilitate purpose-driven growth strategies.
 
 ### Phase 5: Data-Driven Insights (2023-2024)  
-![Real-Time Analytics Engine](real-time-analytics-preview.png)
 - Transitioned to advanced analytics for deeper exploration of consumer behavior.
 - Built dynamic analytics reports to provide actionable insights and uncover trends.
+
+<p float="left">
+  <img src="data-insights-report.png" width="45%" />
+  <img src="data-driven-insights.png" width="45%" />
+</p>
 
 ### Phase 6: Real-Time Analytics & Decision Engine (2024) 
 ![Real-Time Analytics Engine](real-time-analytics-preview.png) 
@@ -50,9 +54,10 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 - Building AI-driven tools for optimizing resource allocation and engagement strategies
 
 ### Phase 8: Intuitive Visualizations with Variance Loops (2024)  
-![Variance Loops Visualizations](variance-loops-preview.png)
 - Designing strategic variance loops for actionable visualizations
 - Enabling users to interact with and understand complex data effortlessly
+![Intuitive Visualization](strategic-variance-loops.png)
+
 
 ---
 

@@ -7,10 +7,17 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ## Project Evolution  
 
-### Phase 1: Service Design & Optimization (2021)  
-![Service Design & Optimization](service-design-optimization-preview.png) 
+### Phase 1: Service Design & Optimization (2021)
+
 - Focused on aligning business goals with user needs through advisory planning, brand development, and content strategy.
 - Delivered service design blueprints and optimization plans to drive efficiency without sacrificing on customer experience.
+
+<p float="left">
+  <img src="scaling-services-1.png" width="45%" />
+  <img src="scaling-services-2.png" width="45%" />
+</p>
+
+[View Case Study](https://www.flipsnack.com/F899E588B7A/casestudy_scalingdigitalservices/full-view.html)
 
 ### Phase 2: Tech-Enabled Consulting Prototype (2022)  
 ![Tech-Enabled Consulting Prototype](consulting-prototype-preview.png)

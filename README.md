@@ -19,20 +19,33 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 [View Case Study](https://www.flipsnack.com/F899E588B7A/casestudy_scalingdigitalservices/full-view.html)
 
+---
+
 ### Phase 2: Tech-Enabled Consulting Prototype (2022)  
 ![Tech-Enabled Consulting Prototype](consulting-prototype-preview.png)
 - Developed initial frameworks for tech-enabled consulting using Airtable and no-code tools.
 - Built workflows for capturing and categorizing consumer insights for early analysis.
+
+<p float="left">
+  <img src="prototype-1.png" width="45%" />
+  <img src="prototype-2.png" width="45%" />
+</p>
+
+---
 
 ### Phase 3: Consulting Automation (2023) 
 ![Real-Time Analytics Engine](real-time-analytics-preview.png)
 - Automated key consulting processes to improve efficiency and scalability.
 - Introduced decision-tree models to simplify service optimization.
 
+---
+
 ### Phase 4: Alignment Prototype (2023)  
 ![Real-Time Analytics Engine](real-time-analytics-preview.png)
 - Created tools to align business value to user needs, streamlining consulting processes
 - Integrated alignment algorithms to facilitate purpose-driven growth strategies.
+
+---
 
 ### Phase 5: Data-Driven Insights (2023-2024)  
 - Transitioned to advanced analytics for deeper exploration of consumer behavior.
@@ -43,20 +56,26 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
   <img src="data-driven-insights.png" width="45%" />
 </p>
 
+---
+
 ### Phase 6: Real-Time Analytics & Decision Engine (2024) 
 ![Real-Time Analytics Engine](real-time-analytics-preview.png) 
 - Introducing models for transforming qualitative user feedback into quantitative insights.
 - Establishing real-time feedback loops for adaptive decision-making.
+
+---
 
 ### Phase 7: Machine Learning & AI Integration (2024)  
 ![AI Integration](ai-integration-preview.png)
 - Incorporating machine learning models to predict consumer behavior and preferences
 - Building AI-driven tools for optimizing resource allocation and engagement strategies
 
+---
+
 ### Phase 8: Intuitive Visualizations with Variance Loops (2024)  
 - Designing strategic variance loops for actionable visualizations
 - Enabling users to interact with and understand complex data effortlessly
-![Intuitive Visualization](strategic-variance-loops.png)
+
 
 
 ---

@@ -11,7 +11,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 - Automated key consulting processes to improve efficiency and scalability.
 - Introduced decision-tree models to simplify service optimization.
 
-### Stage 1: Service Design & Optimization (2021)
+#### Stage 1: Service Design & Optimization (2021)
 
 - Focused on aligning business goals with user needs through advisory planning, brand development, and content strategy.
 - Delivered service design blueprints and optimization plans to drive efficiency without sacrificing on customer experience.
@@ -25,7 +25,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-### Stage 2: Tech-Enabled Consulting Prototype (2022)  
+#### Stage 2: Tech-Enabled Consulting Prototype (2022)  
 ![Tech-Enabled Consulting Prototype](consulting-prototype-preview.png)
 - Developed initial frameworks for tech-enabled consulting using Airtable and no-code tools.
 - Built workflows for capturing and categorizing consumer insights for early analysis.
@@ -37,7 +37,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-### Stage 3: Alignment Prototype (2023)  
+#### Stage 3: Alignment Prototype (2023)  
 ![Real-Time Analytics Engine](real-time-analytics-preview.png)
 - Created tools to align business value to user needs, streamlining consulting processes
 - Integrated alignment algorithms to facilitate purpose-driven growth strategies.
@@ -54,7 +54,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 - Introducing models for transforming qualitative user feedback into quantitative insights.
 - Establishing real-time feedback loops for adaptive decision-making.
 
-### Stage 5: Data-Driven Insights (2023-2024)  
+#### Stage 5: Data-Driven Insights (2023-2024)  
 - Transitioned to advanced analytics for deeper exploration of consumer behavior.
 - Built dynamic analytics reports to provide actionable insights and uncover trends.
 
@@ -65,7 +65,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-### Stage 6: Machine Learning & AI Integration (2024)  
+#### Stage 6: Machine Learning & AI Integration (2024)  
 ![AI Integration](ai-integration-preview.png)
 - Incorporating machine learning models to predict consumer behavior and preferences
 - Building AI-driven tools for optimizing resource allocation and engagement strategies
@@ -78,7 +78,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-### Stage 7: Intuitive Visualizations with Variance Loops (2024)  
+#### Stage 7: Intuitive Visualizations with Variance Loops (2024)  
 - Designing strategic variance loops for actionable visualizations
 - Enabling users to interact with and understand complex data effortlessly
 

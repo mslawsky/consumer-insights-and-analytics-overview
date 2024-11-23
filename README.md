@@ -45,6 +45,12 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 - Created tools to align business value to user needs, streamlining consulting processes
 - Integrated alignment algorithms to facilitate purpose-driven growth strategies.
 
+<p float="left">
+  <img src="alignment-prototype-1.png" width="30%" alt="Alignment Prototype 1" />
+  <img src="alignment-prototype-2.png" width="30%" alt="Alignment Prototype 2" />
+  <img src="alignment-prototype-3.png" width="30%" alt="Alignment Prototype 3" />
+</p>
+
 ---
 
 ### Phase 5: Data-Driven Insights (2023-2024)  
@@ -69,6 +75,12 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 ![AI Integration](ai-integration-preview.png)
 - Incorporating machine learning models to predict consumer behavior and preferences
 - Building AI-driven tools for optimizing resource allocation and engagement strategies
+
+<p float="left">
+  <img src="system-diagram.png" width="30%" alt="System Diagram" />
+  <img src="pattern-visualization.png" width="30%" alt="Pattern Visualization" />
+  <img src="process-flow.png" width="30%" alt="Process Flow" />
+</p>
 
 ---
 

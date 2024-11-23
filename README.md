@@ -7,6 +7,10 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ## Project Evolution  
 
+### CONSULTING AUTOMATION
+- Automated key consulting processes to improve efficiency and scalability.
+- Introduced decision-tree models to simplify service optimization.
+
 ### Phase 1: Service Design & Optimization (2021)
 
 - Focused on aligning business goals with user needs through advisory planning, brand development, and content strategy.
@@ -33,14 +37,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-### Phase 3: Consulting Automation (2023) 
-![Real-Time Analytics Engine](real-time-analytics-preview.png)
-- Automated key consulting processes to improve efficiency and scalability.
-- Introduced decision-tree models to simplify service optimization.
-
----
-
-### Phase 4: Alignment Prototype (2023)  
+### Phase 3: Alignment Prototype (2023)  
 ![Real-Time Analytics Engine](real-time-analytics-preview.png)
 - Created tools to align business value to user needs, streamlining consulting processes
 - Integrated alignment algorithms to facilitate purpose-driven growth strategies.
@@ -53,6 +50,10 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
+### REAL-TIME ANALYTICS & DECISION ENGINE
+- Introducing models for transforming qualitative user feedback into quantitative insights.
+- Establishing real-time feedback loops for adaptive decision-making.
+
 ### Phase 5: Data-Driven Insights (2023-2024)  
 - Transitioned to advanced analytics for deeper exploration of consumer behavior.
 - Built dynamic analytics reports to provide actionable insights and uncover trends.
@@ -64,14 +65,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-### Phase 6: Real-Time Analytics & Decision Engine (2024) 
-![Real-Time Analytics Engine](real-time-analytics-preview.png) 
-- Introducing models for transforming qualitative user feedback into quantitative insights.
-- Establishing real-time feedback loops for adaptive decision-making.
-
----
-
-### Phase 7: Machine Learning & AI Integration (2024)  
+### Phase 6: Machine Learning & AI Integration (2024)  
 ![AI Integration](ai-integration-preview.png)
 - Incorporating machine learning models to predict consumer behavior and preferences
 - Building AI-driven tools for optimizing resource allocation and engagement strategies
@@ -84,7 +78,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-### Phase 8: Intuitive Visualizations with Variance Loops (2024)  
+### Phase 7: Intuitive Visualizations with Variance Loops (2024)  
 - Designing strategic variance loops for actionable visualizations
 - Enabling users to interact with and understand complex data effortlessly
 

@@ -97,4 +97,4 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 - [Email](mailto:melissa@melissaslawsky.com)  
 
 ---  
-© Melissa Slawsky 2021-2024. All Rights Reserved.  
+© Melissa Slawsky 2021-2025. All Rights Reserved.  

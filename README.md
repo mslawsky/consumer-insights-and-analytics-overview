@@ -65,7 +65,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-#### Stage 6: Machine Learning & AI Integration (2024)  
+#### Stage 6: Machine Learning & AI Integration (2025)  
 ![AI Integration](ai-integration-preview.png)
 - Incorporating machine learning models to predict consumer behavior and preferences
 - Building AI-driven tools for optimizing resource allocation and engagement strategies
@@ -78,7 +78,7 @@ This repository offers an overview of a solution for **Consumer Insights & Analy
 
 ---
 
-#### Stage 7: Intuitive Visualizations with Variance Loops (2024)  
+#### Stage 7: Intuitive Visualizations with Variance Loops (2025)  
 - Designing strategic variance loops for actionable visualizations
 - Enabling users to interact with and understand complex data effortlessly
 
